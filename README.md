@@ -1,1 +1,1 @@
-BetterFood Project is a kind of yuka's clone.
+BetterFood Project is a simple React Native yuka's clone.
